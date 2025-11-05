@@ -1,3 +1,5 @@
+package org.example;
+
 public class Product {
     private String productId, name;
     private double price;
